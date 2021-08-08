@@ -9,7 +9,7 @@ interface User{
 
 const users:Array<User>=[
     {
-        name: 'ユーザー1',
+        name: 'ユーザー',
         email: 'user1@example.com',
         sex: '男',
         age: 19,
